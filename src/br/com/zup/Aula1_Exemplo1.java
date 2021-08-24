@@ -14,6 +14,7 @@ public class Aula1_Exemplo1 {
         System.out.println(" anos");
 
         //Printando de forma concatenada as variáveis declaradas
-        System.out.print("Olá, menu nome é "+nomeDoUsuario);
+        System.out.print("Olá, menu nome é " + nomeDoUsuario);
+        System.out.print(" a minha idade é " + idadeDoUsuario + " anos");
     }
 }
